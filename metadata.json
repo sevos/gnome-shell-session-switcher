@@ -1,0 +1,10 @@
+{
+  "name": "SevosIO: Session Switcher",
+  "description": "Allows session switching between users",
+  "uuid": "session-switcher@sevos.io",
+  "shell-version": [
+    "46"
+  ],
+  "version": 1.0,
+  "url": ""
+}
