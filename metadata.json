@@ -1,10 +1,10 @@
 {
   "name": "SevosIO: Session Switcher",
-  "description": "Allows session switching between users",
+  "description": "Allows session switching between users. Read instructions at https://github.com/sevos/gnome-shell-session-switcher/",
   "uuid": "session-switcher@sevos.io",
   "shell-version": [
     "46"
   ],
   "version": 1.0,
-  "url": ""
+  "url": "https://github.com/sevos/gnome-shell-session-switcher"
 }
