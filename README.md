@@ -27,4 +27,9 @@ polkit.addRule(function(action, subject) {
 
 This policy allows administrators who belong to `wheel` group use this plugin.
 
+Restart polkit:
+```
+sudo systemctl restart polkit
+```
+
 Next, install this plugin in all users' GNOME environments.
